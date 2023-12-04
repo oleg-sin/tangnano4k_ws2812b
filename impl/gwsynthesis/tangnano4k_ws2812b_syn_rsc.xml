@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Module name="top" Register="42" Alu="22" Lut="31">
-    <SubModule name="ws2812b_inst" Register="26" Lut="65" Bsram="1"/>
-    <SubModule name="hsv_to_rgb_inst" Register="24" Alu="34" Lut="135" Dsp="6"/>
-    <SubModule name="Gowin_pROM_inst" Bsram="1"/>
-</Module>
